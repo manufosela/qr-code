@@ -1,11 +1,23 @@
 {
-  "name": "qr-code",
-  "description": "Webcomponent qr-code following open-wc recommendations",
-  "license": "MIT",
+  "name": "@manufosela/qr-code",
+  "description": "Lit webcomponent qr-code following open-wc recommendations",
+  "license": "Apache-2.0",
   "author": "qr-code",
   "version": "1.1.0",
   "main": "index.js",
   "module": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/user/qr-code"
+  },
+  "keywords": [
+    "webcomponent",
+    "lit-element"
+  ],
+  "bugs": {
+    "url": "https://github.com/user/qr-code/issues"
+  },
+  "homepage": "https://github.com/user/qr-code",
   "scripts": {
     "analyze": "cem analyze --litelement",
     "start": "web-dev-server",
